@@ -1,0 +1,22 @@
+/* About Us Section */
+.about-us {
+  background: url('./images/bakery-about-background.jpg') center top no-repeat;
+  border-top: 4px solid #885345;
+  border-bottom: 4px solid #885345;
+  color: #FFF;
+  font-size: 21px;
+  line-height: 1.6;
+}
+
+.about-us-text {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 40px 0;
+
+  p {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px 0;
+    text-align: justify;
+    font-weight: normal;
+  }
+}
